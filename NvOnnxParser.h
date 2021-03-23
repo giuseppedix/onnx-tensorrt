@@ -22,7 +22,7 @@
 
 #ifndef NV_ONNX_PARSER_H
 #define NV_ONNX_PARSER_H
-
+#include <stdint.h>
 #include "NvInfer.h"
 #include <stddef.h>
 #include <vector>
